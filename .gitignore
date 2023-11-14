@@ -12,3 +12,5 @@
 # whitelist everything in ./config/
 
 !i3/*
+!starship.toml
+!kitty/*
