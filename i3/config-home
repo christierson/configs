@@ -1,0 +1,14 @@
+set $main $monitor_home_main
+set $vertical $monitor_home_vertical
+
+workspace $ws1 output $main
+workspace $ws2 output $main
+workspace $ws3 output $main
+workspace $ws4 output $main
+workspace $ws5 output $main
+workspace $ws6 output $main
+workspace $ws7 output $vertical
+workspace $ws8 output $vertical
+workspace $ws9 output $vertical
+workspace $ws10 output $vertical
+

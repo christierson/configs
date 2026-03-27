@@ -1,0 +1,41 @@
+{
+    "monitor_settings": {
+        "eDP": {
+            "mode": "1920x1200",
+            "pos": "0x680",
+            "rotate": "normal"
+        },
+        "DisplayPort-0": {
+            "mode": "2560x1440",
+            "pos": "7040x0",
+            "rotate": "right"
+        },
+        "DVI-I-2-2": {
+            "mode": "2560x1440",
+            "pos": "4480x560",
+            "rotate": "normal"
+        },
+        "DVI-I-1-1": {
+            "primary": "",
+            "mode": "2560x1440",
+            "pos": "1920x560",
+            "rotate": "normal"
+        },
+        "mode": "office",
+        "monitors": {
+            "laptop": "eDP",
+            "office_vertical": "DisplayPort-0",
+            "office_right": "DVI-I-2-2",
+            "office_left": "DVI-I-1-1"
+        }
+    },
+    "polybar_settings": {
+        "mode": "office",
+        "config_path": "polybar/config-office.ini",
+        "start_script": "polybar/startbar-office.sh"
+    },
+    "i3_settings": {
+        "mode": "office",
+        "config_path": "i3/config-office"
+    }
+}

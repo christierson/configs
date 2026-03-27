@@ -1,0 +1,16 @@
+{
+    "laptop": {
+        "off": ""
+    },
+    "home_vertical": {
+        "mode": "1920x1080",
+        "pos": "1920x0",
+        "rotate": "right"
+    },
+    "home_main": {
+        "primary": "",
+        "mode": "1920x1080",
+        "pos": "0x420",
+        "rotate": "normal"
+    }
+}

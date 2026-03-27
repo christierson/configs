@@ -1,0 +1,23 @@
+{
+    "laptop": {
+        "mode": "1920x1200",
+        "pos": "0x680",
+        "rotate": "normal"
+    },
+    "office_vertical": {
+        "mode": "2560x1440",
+        "pos": "7040x0",
+        "rotate": "right"
+    },
+    "office_right": {
+        "mode": "2560x1440",
+        "pos": "4480x560",
+        "rotate": "normal"
+    },
+    "office_left": {
+        "primary": "",
+        "mode": "2560x1440",
+        "pos": "1920x560",
+        "rotate": "normal"
+    }
+}

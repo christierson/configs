@@ -179,20 +179,3 @@ gaps outer 0px
 default_border none
 default_floating_border none
 
-set $laptop eDP
-set $left DVI-I-1-1
-set $right DVI-I-2-2
-set $vertical DisplayPort-0
-
-workspace $ws1 output $left
-workspace $ws2 output $right
-workspace $ws3 output $left
-workspace $ws4 output $right
-workspace $ws5 output $left
-workspace $ws6 output $right
-workspace $ws7 output $laptop
-workspace $ws8 output $laptop
-workspace $ws9 output $vertical
-workspace $ws10 output $vertical
-
-bindsym XF86Tools exec --no-startup-id flameshot gui
